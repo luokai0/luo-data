@@ -1,0 +1,6 @@
+{
+  "name": "ImageNet",
+  "description": "14 million images across 21841 classes (subset commonly used)",
+  "download_url": "https://image-net.org/",
+  "sample_count": 14000000
+}

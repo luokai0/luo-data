@@ -1,0 +1,18 @@
+{
+  "name": "CIFAR-10",
+  "description": "32x32 color images in 10 classes",
+  "categories": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "download_url": "https://www.cs.toronto.edu/~kriz/cifar.html",
+  "sample_count": 50000
+}

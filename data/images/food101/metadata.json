@@ -1,0 +1,7 @@
+{
+  "name": "Food-101",
+  "description": "101 food categories with 1000 images each",
+  "categories": ["apple_pie", "baby_back_ribs", "baklava", "beef_carpaccio", "beef_tartare", "beet_salad", "beignets", "bibimbap", "bread_pudding", "breakfast_burrito", "bruschetta", "caesar_salad", "cannoli", "caprese_salad", "carrot_cake", "ceviche", "cheesecake", "cheese_plate", "chicken_curry", "chicken_quesadilla"],
+  "download_url": "https://data.vision..ethz.ch/cvl/datasets/food-101/",
+  "sample_count": 101000
+}

@@ -1,0 +1,6 @@
+{
+  "name": "LFW (Labeled Faces in the Wild)",
+  "description": "13233 images of 5749 identities for face verification",
+  "download_url": "http://vis-www.cs.umass.edu/lfw/",
+  "sample_count": 13233
+}
