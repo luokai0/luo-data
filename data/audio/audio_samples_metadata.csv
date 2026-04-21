@@ -1,0 +1,4 @@
+id,filename,duration_sec,transcript,speaker
+1,audio_001.wav,5.2,hello world,spk_01
+2,audio_002.wav,3.1,how are you,spk_02
+3,audio_003.wav,8.5,good morning everyone,spk_01
