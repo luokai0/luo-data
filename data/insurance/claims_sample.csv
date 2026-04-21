@@ -1,4 +1,0 @@
-claim_id,policy_id,amount,claim_type,status
-C001,P1001,5000,auto,approved
-C002,P1002,12000,home,pending
-C003,P1003,2500,health,approved

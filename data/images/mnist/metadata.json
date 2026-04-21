@@ -1,6 +1,0 @@
-{
-  "name": "MNIST",
-  "description": "28x28 grayscale images of handwritten digits 0-9",
-  "sample_count": 70000,
-  "download_url": "https://github.com/cvdfoundation/mnist"
-}

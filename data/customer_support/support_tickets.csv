@@ -1,4 +1,0 @@
-ticket_id,subject,description,priority,status
-1,Login issue,Cannot access account,high,open
-2,Refund request,Want to cancel order,medium,closed
-3,Technical problem,App crashes on startup,high,open

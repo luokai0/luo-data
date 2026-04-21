@@ -1,3 +1,0 @@
-{"task":"summarize","prompt":"Summarize the following text in 3 sentences: {text}"}
-{"task":"translate","prompt":"Translate from English to Spanish: {text}"}
-{"task":"code","prompt":"Write a Python function to {task}"}

@@ -1,7 +1,0 @@
-{
-  "name": "SVHN",
-  "description": "Over 600k digit images from house numbers in Google Street View",
-  "format": "32x32 RGB",
-  "download_url": "http://ufldl.stanford.edu/housenumbers/",
-  "sample_count": 600000
-}

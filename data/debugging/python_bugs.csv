@@ -1,4 +1,0 @@
-buggy_code,fixed_code,bug_type
-print("hello" ,hello indentation
-a = [1,2,3]\nprint(a[5]),IndexError
-x = int("abc"),ValueError

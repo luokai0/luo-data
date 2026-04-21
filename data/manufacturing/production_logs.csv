@@ -1,4 +1,0 @@
-batch_id,product,output_qty,defects,machine_id
-B001,Widget A,1000,15,M1
-B002,Widget B,800,8,M2
-B003,Widget A,1200,22,M1
