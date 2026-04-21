@@ -1,0 +1,4 @@
+date,temp_c,humidity,wind_kmh,condition
+2024-01-01,15,65,12,sunny
+2024-01-02,12,80,18,rainy
+2024-01-03,8,90,25,stormy
