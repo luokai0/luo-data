@@ -1,0 +1,4 @@
+product_id,name,quantity,warehouse,reorder_level
+P001,Laptop,50,WH-A,20
+P002,Mouse,200,WH-A,50
+P003,Keyboard,150,WH-B,30
